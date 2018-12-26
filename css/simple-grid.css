@@ -219,7 +219,7 @@ li{
   display: none;
 }
 
-@media screen and (min-width: 981px) {
+@media (min-width: 820px) {
 .row{
   width: 100%;
 }
