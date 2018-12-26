@@ -73,7 +73,7 @@ a:hover{
 }
 
 a.music_link{
-  color: ffffff;
+  color: #ffffff;
 }
 
 a.music_link:hover{
@@ -122,7 +122,7 @@ a.music_link:hover{
 .text_wrapper{
   display: table-cell;
   vertical-align: middle;
-  padding: 50px;
+  padding: 80px;
 }
 
 /*STYLES DE LISTES*/
