@@ -151,7 +151,7 @@ li{
 /* ==== GRID SYSTEM ==== */
 
 .container {
-  width: 100vw;
+  width: 100%;
   height: 100vh;
   background-color: #1a23fd;
   margin: 0;
@@ -248,7 +248,7 @@ li{
   display: none;
 }
 
-@media only screen and (min-width: 540px) {  /* 540px */
+@media screen and (min-width: 1000px) {  /* 540px */
 .col-6{
   width: 50%;
 }
@@ -266,4 +266,5 @@ li{
 
 li{
   font-size: 80%;
+}
 }
