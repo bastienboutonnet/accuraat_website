@@ -134,7 +134,7 @@ background-image:
 .scroll_down {
   position: absolute;
   left: 50%;
-  bottom: 10px;
+  bottom: 20px;
   display: block;
   text-align: center;
   font-size: 20px;
@@ -178,7 +178,7 @@ background-image:
 .scroll_up {
   position: absolute;
   left: 50%;
-  bottom: 10px;
+  bottom: 20px;
   display: block;
   text-align: center;
   font-size: 20px;
