@@ -3,7 +3,7 @@
 *** (C) ZACH COLE 2016
 **/
 
-@import url('https://fonts.googleapis.com/css?family=Fira+Mono|Rubik');
+@import url('https://fonts.googleapis.com/css?family=PT+Mono|Rubik');
 
 /* UNIVERSAL */
 
@@ -20,7 +20,7 @@ body {
 /* ROOT FONT STYLES */
 
 * {
-  font-family: 'Fira Mono', monospace;
+  font-family: 'PT Mono', monospace;
   color: #fff;
 }
 
@@ -39,6 +39,7 @@ label{
 a:link, a:visited, a:hover, a:active{
   color: #fe008b;
   text-decoration: none;
+  font-weight: 600;
 }
 
 a:hover{
